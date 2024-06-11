@@ -11,5 +11,5 @@ jinja2
 python-multipart
 PyPDF2
 faiss-cpu
-#Get into the setup file, find the contructor file treat it as a local package.S
+#Get into the setup file, find the constructor file treat it as a local package.
 -e .
